@@ -10,7 +10,7 @@ The visual studio community IDE was used to develop this program. It was written
 
 # Useful Websites
 
-* [cpLuspLus.com](https://www.cplusplus.com/doc/tutorial/)
+* [cplusplus.com](https://www.cplusplus.com/doc/tutorial/)
 * [W3schools](https://www.w3schools.com/cpp/)
 
 # Future Work
